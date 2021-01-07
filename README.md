@@ -1,3 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorairoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)\
-![Sorairoo's github stats](https://github-readme-stats.vercel.app/api?username=Sorairoo&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorairoo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
+![Sorairoo's github stats](https://github-readme-stats.vercel.app/api?username=Sorairoo&show_icons=true&theme=dark)
 
