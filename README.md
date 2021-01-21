@@ -1,4 +1,4 @@
-<img align="right" src="me.png" alt="Agostino Fiscale's Animoji using a Macbook" />
+<img align="right" src="me_.png" alt="Agostino Fiscale's Animoji using a Macbook" />
 
 # Happy coding! 💻👋
 
