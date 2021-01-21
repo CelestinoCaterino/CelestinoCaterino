@@ -1,7 +1,6 @@
 <img align="right" src="me.png" alt="Agostino Fiscale's Animoji using a Macbook" />
 # console.log('Hello, world!')
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorairoo&theme=dark&layout=compact)
-![Sorairoo's github stats](https://github-readme-stats.vercel.app/api?username=Sorairoo&show_icons=true&theme=dark)\
+
 
 #### Technologies and tools
 <p>
