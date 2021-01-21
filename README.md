@@ -27,6 +27,7 @@
 	<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=Composer&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Laragon-0E83CD?style=flat-square&logo=Laragon&logoColor=white"/>
