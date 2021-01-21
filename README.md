@@ -30,6 +30,8 @@
 	<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+
 </p>
 
 ---
