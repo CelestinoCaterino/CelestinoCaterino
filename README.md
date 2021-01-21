@@ -1,8 +1,5 @@
 ![Sorairoo's github stats](https://github-readme-stats.vercel.app/api?username=Sorairoo&show_icons=true&theme=dark)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorairoo&theme=dark&layout=compact)
- 
----
-![](https://komarev.com/ghpvc/?username=Sorairoo)
 
 #### Technologies and tools
 <p>
@@ -36,3 +33,9 @@
 	<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
 </p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=Sorairoo)
+
+
