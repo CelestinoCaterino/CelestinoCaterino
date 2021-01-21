@@ -34,6 +34,7 @@
 	<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Apache%20Cordova-E8E8E8?style=flat-square&logo=Apache%20Cordova&logoColor=white"/>
 
 </p>
 
