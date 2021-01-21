@@ -41,6 +41,8 @@
 	<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Apache%20Cordova-E8E8E8?style=flat-square&logo=Apache%20Cordova&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white"/>
+	
 </p>
 
 ---
