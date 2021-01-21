@@ -24,16 +24,11 @@
 	<img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=Composer&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Laragon-0E83CD?style=flat-square&logo=Laragon&logoColor=white"/>
-	<img src="https://img.shields.io/badge/-Prestashop-DF0067?style=flat-square&logo=Prestashop&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-WooCommerce-96588A?style=flat-square&logo=WooCommerce&logoColor=white"/>
-	<img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-	<img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
-	<img src="https://img.shields.io/badge/-macOs-000000?style=flat-square&logo=Apple&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-	<img src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
 </p>
 
 ---
