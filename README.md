@@ -3,6 +3,7 @@
 # Happy coding! 💻
 
 ![CelestinoCaterinp's github stats](https://github-readme-stats.vercel.app/api?username=CelestinoCaterino&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelestinoCaterino&theme=dark&layout=compact)
 #### Technologies and tools
 <p>
 	<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
