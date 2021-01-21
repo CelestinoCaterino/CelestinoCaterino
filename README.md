@@ -1,6 +1,6 @@
 <img align="right" src="me.png" alt="Agostino Fiscale's Animoji using a Macbook" />
 
-# Happy coding!
+# Happy coding! 💻
 
 ![CelestinoCaterinp's github stats](https://github-readme-stats.vercel.app/api?username=CelestinoCaterino&show_icons=true&theme=dark)
 #### Technologies and tools
