@@ -1,6 +1,6 @@
 
 
-# Happy coding! 💻👋
+# Hello, world! 💻👋
 <img src="gif.gif" />
 
 #### Technologies and tools
