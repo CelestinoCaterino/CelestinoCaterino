@@ -1,7 +1,7 @@
 
 
 # Happy coding! 💻👋
-<img src="gif2.gif" />
+<img src="gif.gif" />
 
 #### Technologies and tools
 <p>
