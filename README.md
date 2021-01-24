@@ -1,7 +1,7 @@
 
 
 # Happy coding! 💻👋
-<img src="gif.gif" alt="Me as Animoji" />
+<img src="gif2.gif" alt="Me as Animoji" />
 
 #### Technologies and tools
 <p>
