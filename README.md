@@ -1,6 +1,8 @@
 <img align="right" src="me_.png" alt="Me as Animoji" />
 
 # Happy coding! 💻👋
+<img src="gif.gif" alt="Me as Animoji" />
+
 #### Technologies and tools
 <p>
 	<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -39,7 +41,6 @@
 	<img src="https://img.shields.io/badge/-Apache%20Cordova-E8E8E8?style=flat-square&logo=Apache%20Cordova&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white"/>
-	<img src="gif.gif" alt="Me as Animoji" />
 
 	
 </p>
