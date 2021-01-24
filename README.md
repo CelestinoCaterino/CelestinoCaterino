@@ -39,9 +39,10 @@
 	<img src="https://img.shields.io/badge/-Apache%20Cordova-E8E8E8?style=flat-square&logo=Apache%20Cordova&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white"/>
+	<img align="right" src="gif.gif" alt="Me as Animoji" />
+
 	
 </p>
-<img align="right" src="gif.gif" alt="Me as Animoji" />
 
 ---
 [![Linkedin](https://img.shields.io/badge/-Celestino%20Caterino-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/celestino-caterino/)](https://www.linkedin.com/in/celestino-caterino/)
