@@ -1,4 +1,4 @@
-<img align="right" src="gif.gif" alt="Me as Animoji" />
+<img align="right" src="me_.png" alt="Me as Animoji" />
 
 # Happy coding! 💻👋
 #### Technologies and tools
