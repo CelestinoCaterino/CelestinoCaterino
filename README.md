@@ -41,6 +41,7 @@
 	<img src="https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=FileZilla&logoColor=white"/>
 	
 </p>
+<img align="right" src="gif.gif" alt="Me as Animoji" />
 
 ---
 [![Linkedin](https://img.shields.io/badge/-Celestino%20Caterino-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/celestino-caterino/)](https://www.linkedin.com/in/celestino-caterino/)
