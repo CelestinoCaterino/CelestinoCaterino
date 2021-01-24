@@ -1,7 +1,7 @@
 
 
 # Hello, world! 💻👋
-<img src="gif.gif" />
+<img src="gif2.gif" />
 
 #### Technologies and tools
 <p>
